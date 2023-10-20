@@ -1,0 +1,21 @@
+﻿body {
+    
+}
+.about-body {
+    background-color:#1f2028;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.about-main {
+    opacity: 0.7;
+    align-content:center;
+    margin:350px;
+    position:center;
+}
+
+
+footer{
+
+    position:sticky;
+}
